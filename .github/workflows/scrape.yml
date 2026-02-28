@@ -1,33 +1,28 @@
-name: Refresh IPO Data
+name: IPO Auto-Sync
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch: # Allows you to click a button to run it manually
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Crucial for pushing the JSON file back
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
+      - uses: actions/checkout@v4
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
-
+          python-version: '3.10'
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Run Scraper
         run: python scraper.py
-
-      - name: Commit and Push
+      - name: Commit Change
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
+          git config user.name "IPO-Bot"
+          git config user.email "bot@github.com"
           git add ipo_data.json
-          git commit -m "Update IPO data" || exit 0
+          git commit -m "Sync: ${{ github.event.repository.updated_at }}" || exit 0
           git push
