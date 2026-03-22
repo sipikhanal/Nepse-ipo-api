@@ -4,71 +4,83 @@
         "Company Name": "Beni Hydropower Project Limited - BENI (RESERVED - Project Affected Area)",
         "Issue Manager": "NMB CAPITAL LIMITED",
         "Issued Unit": "312000",
-        "Number Of Application": "1639",
-        "Applied Unit": "276350",
-        "Amount": "27635000",
+        "Number Of Application": "2022",
+        "Applied Unit": "330370",
+        "Amount": "33037000",
         "Open-Date": "2026-03-15",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-22 10:32:14"
+        "Last Update": "2026-03-22 11:27:42"
     },
     {
         "S.N": "2",
         "Company Name": "Beni Hydropower Project Limited - BENI (RESERVED - Project Severely Affected Area)",
         "Issue Manager": "NMB CAPITAL LIMITED",
         "Issued Unit": "520000",
-        "Number Of Application": "1098",
-        "Applied Unit": "379740",
-        "Amount": "37974000",
+        "Number Of Application": "1341",
+        "Applied Unit": "468320",
+        "Amount": "46832000",
         "Open-Date": "2026-03-15",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-22 10:32:14"
+        "Last Update": "2026-03-22 11:27:42"
     },
     {
         "S.N": "3",
         "Company Name": "Beni Hydropower Project Limited - BENI (RESERVED - Project Slightly Affected Area)",
         "Issue Manager": "NMB CAPITAL LIMITED",
         "Issued Unit": "208000",
-        "Number Of Application": "3705",
-        "Applied Unit": "276690",
-        "Amount": "27669000",
+        "Number Of Application": "5027",
+        "Applied Unit": "359610",
+        "Amount": "35961000",
         "Open-Date": "2026-03-15",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-22 10:32:14"
+        "Last Update": "2026-03-22 11:27:42"
     },
     {
         "S.N": "4",
         "Company Name": "Garima Subarna Yojana - GSYM (IPO - For General Public)",
         "Issue Manager": "GARIMA CAPITAL LIMITED",
         "Issued Unit": "50000000",
-        "Number Of Application": "99910",
-        "Applied Unit": "89110750",
-        "Amount": "891107500",
+        "Number Of Application": "101913",
+        "Applied Unit": "89695200",
+        "Amount": "896952000",
         "Open-Date": "2026-03-12",
         "Close-Date": "2026-03-26",
-        "Last Update": "2026-03-22 10:32:14"
+        "Last Update": "2026-03-22 11:27:42"
     },
     {
         "S.N": "5",
         "Company Name": "Sanigad Hydro Limited - SGHL (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "570000",
-        "Number Of Application": "13244",
-        "Applied Unit": "196590",
-        "Amount": "19659000",
+        "Number Of Application": "42004",
+        "Applied Unit": "630440",
+        "Amount": "63044000",
         "Open-Date": "2026-03-22",
         "Close-Date": "2026-03-25",
-        "Last Update": "2026-03-22 10:32:14"
+        "Last Update": "2026-03-22 11:27:42"
     },
     {
         "S.N": "6",
         "Company Name": "Yambaling Hydropower  Limited - YMHL (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "MUKTINATH CAPITAL LIMITED",
         "Issued Unit": "210000",
-        "Number Of Application": "13547",
-        "Applied Unit": "178930",
-        "Amount": "17893000",
+        "Number Of Application": "42453",
+        "Applied Unit": "576310",
+        "Amount": "57631000",
         "Open-Date": "2026-03-22",
         "Close-Date": "2026-03-25",
-        "Last Update": "2026-03-22 10:32:14"
+        "Last Update": "2026-03-22 11:27:42"
+    },
+    {
+        "S.N": "7",
+        "Company Name": "Yambaling Hydropower  Limited - YMHL (RESERVED - Project Affected Area)",
+        "Issue Manager": "MUKTINATH CAPITAL LIMITED",
+        "Issued Unit": "700000",
+        "Number Of Application": "11",
+        "Applied Unit": "5580",
+        "Amount": "558000",
+        "Open-Date": "2026-03-22",
+        "Close-Date": "2026-04-05",
+        "Last Update": "2026-03-22 11:27:42"
     }
 ]
