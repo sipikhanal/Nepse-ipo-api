@@ -9,7 +9,7 @@
         "Amount": "70401000",
         "Open-Date": "2026-03-15",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     },
     {
         "S.N": "2",
@@ -21,7 +21,7 @@
         "Amount": "84318000",
         "Open-Date": "2026-03-15",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     },
     {
         "S.N": "3",
@@ -33,22 +33,10 @@
         "Amount": "102683000",
         "Open-Date": "2026-03-15",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     },
     {
         "S.N": "4",
-        "Company Name": "Garima Subarna Yojana - GSYM (IPO - For General Public)",
-        "Issue Manager": "GARIMA CAPITAL LIMITED",
-        "Issued Unit": "50000000",
-        "Number Of Application": "115304",
-        "Applied Unit": "127930600",
-        "Amount": "1279306000",
-        "Open-Date": "2026-03-12",
-        "Close-Date": "2026-03-25",
-        "Last Update": "2026-03-26 17:35:52"
-    },
-    {
-        "S.N": "5",
         "Company Name": "Kalanga Hydro Limited - KAHL (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "350000",
@@ -57,22 +45,10 @@
         "Amount": "109684000",
         "Open-Date": "2026-03-24",
         "Close-Date": "2026-03-29",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     },
     {
-        "S.N": "6",
-        "Company Name": "Sanigad Hydro Limited - SGHL (RESERVED - FOREIGN EMPLOYMENT)",
-        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
-        "Issued Unit": "570000",
-        "Number Of Application": "87104",
-        "Applied Unit": "1321110",
-        "Amount": "132111000",
-        "Open-Date": "2026-03-22",
-        "Close-Date": "2026-03-25",
-        "Last Update": "2026-03-26 17:35:52"
-    },
-    {
-        "S.N": "7",
+        "S.N": "5",
         "Company Name": "Snow Rivers Limited. - SNOW (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "93750",
@@ -81,10 +57,10 @@
         "Amount": "108940000",
         "Open-Date": "2026-03-23",
         "Close-Date": "2026-03-26",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     },
     {
-        "S.N": "8",
+        "S.N": "6",
         "Company Name": "Sopan Pharmaceuticals  Limited - SOPAN (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "NMB CAPITAL LIMITED",
         "Issued Unit": "429000",
@@ -93,22 +69,10 @@
         "Amount": "126622000",
         "Open-Date": "2026-03-23",
         "Close-Date": "2026-03-26",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     },
     {
-        "S.N": "9",
-        "Company Name": "Yambaling Hydropower  Limited - YMHL (RESERVED - FOREIGN EMPLOYMENT)",
-        "Issue Manager": "MUKTINATH CAPITAL LIMITED",
-        "Issued Unit": "210000",
-        "Number Of Application": "87095",
-        "Applied Unit": "1192330",
-        "Amount": "119233000",
-        "Open-Date": "2026-03-22",
-        "Close-Date": "2026-03-25",
-        "Last Update": "2026-03-26 17:35:52"
-    },
-    {
-        "S.N": "10",
+        "S.N": "7",
         "Company Name": "Yambaling Hydropower  Limited - YMHL (RESERVED - Project Affected Area)",
         "Issue Manager": "MUKTINATH CAPITAL LIMITED",
         "Issued Unit": "700000",
@@ -117,6 +81,6 @@
         "Amount": "6378000",
         "Open-Date": "2026-03-22",
         "Close-Date": "2026-04-05",
-        "Last Update": "2026-03-26 17:35:52"
+        "Last Update": "2026-03-26 19:13:11"
     }
 ]
