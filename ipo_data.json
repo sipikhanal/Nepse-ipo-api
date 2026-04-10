@@ -4,35 +4,47 @@
         "Company Name": "Appolo Hydropower Limited - APHPL (IPO - For General Public)",
         "Issue Manager": "HIMALAYAN CAPITAL LIMITED",
         "Issued Unit": "780200",
-        "Number Of Application": "23550",
-        "Applied Unit": "255630",
-        "Amount": "25563000",
+        "Number Of Application": "1307834",
+        "Applied Unit": "14987840",
+        "Amount": "1498784000",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-04-15",
-        "Last Update": "2026-04-10 03:48:03"
+        "Last Update": "2026-04-10 05:59:56"
     },
     {
         "S.N": "2",
         "Company Name": "BUDDHABHUMI NEPAL HYDRO POWER COMPANY LTD. - BBNHCL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "NIC ASIA CAPITAL LIMITED",
         "Issued Unit": "4000000",
-        "Number Of Application": "25699",
-        "Applied Unit": "739014",
-        "Amount": "73901400",
+        "Number Of Application": "27612",
+        "Applied Unit": "805816",
+        "Amount": "80581600",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-04-26",
-        "Last Update": "2026-04-10 03:48:03"
+        "Last Update": "2026-04-10 05:59:56"
     },
     {
         "S.N": "3",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11319000",
-        "Number Of Application": "243",
-        "Applied Unit": "2874",
-        "Amount": "287400",
+        "Number Of Application": "47769",
+        "Applied Unit": "321985",
+        "Amount": "32198500",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-10 03:48:03"
+        "Last Update": "2026-04-10 05:59:56"
+    },
+    {
+        "S.N": "4",
+        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
+        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
+        "Issued Unit": "11781000",
+        "Number Of Application": "16",
+        "Applied Unit": "22624",
+        "Amount": "2262400",
+        "Open-Date": "2026-04-09",
+        "Close-Date": "2026-04-29",
+        "Last Update": "2026-04-10 05:59:56"
     }
 ]
