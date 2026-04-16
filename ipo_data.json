@@ -1,18 +1,6 @@
 [
     {
         "S.N": "1",
-        "Company Name": "Appolo Hydropower Limited - APHPL (IPO - For General Public)",
-        "Issue Manager": "HIMALAYAN CAPITAL LIMITED",
-        "Issued Unit": "780200",
-        "Number Of Application": "2876102",
-        "Applied Unit": "32740330",
-        "Amount": "3274033000",
-        "Open-Date": "2026-04-09",
-        "Close-Date": "2026-04-15",
-        "Last Update": "2026-04-16 18:09:11"
-    },
-    {
-        "S.N": "2",
         "Company Name": "BUDDHABHUMI NEPAL HYDRO POWER COMPANY LTD. - BBNHCL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "NIC ASIA CAPITAL LIMITED",
         "Issued Unit": "4000000",
@@ -21,10 +9,10 @@
         "Amount": "101049000",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-04-26",
-        "Last Update": "2026-04-16 18:09:11"
+        "Last Update": "2026-04-16 19:45:22"
     },
     {
-        "S.N": "3",
+        "S.N": "2",
         "Company Name": "Sopan Pharmaceuticals  Limited - SOPAN (IPO - For General Public)",
         "Issue Manager": "NMB CAPITAL LIMITED",
         "Issued Unit": "3474900",
@@ -33,10 +21,10 @@
         "Amount": "1008470000",
         "Open-Date": "2026-04-16",
         "Close-Date": "2026-04-21",
-        "Last Update": "2026-04-16 18:09:11"
+        "Last Update": "2026-04-16 19:45:22"
     },
     {
-        "S.N": "4",
+        "S.N": "3",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11319000",
@@ -45,10 +33,10 @@
         "Amount": "60414200",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-16 18:09:11"
+        "Last Update": "2026-04-16 19:45:22"
     },
     {
-        "S.N": "5",
+        "S.N": "4",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
@@ -57,6 +45,6 @@
         "Amount": "7949500",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-16 18:09:11"
+        "Last Update": "2026-04-16 19:45:22"
     }
 ]
