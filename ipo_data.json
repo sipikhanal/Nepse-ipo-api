@@ -9,22 +9,10 @@
         "Amount": "131411800",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-04-26",
-        "Last Update": "2026-04-22 17:06:50"
+        "Last Update": "2026-04-22 18:39:00"
     },
     {
         "S.N": "2",
-        "Company Name": "Sopan Pharmaceuticals  Limited - SOPAN (IPO - For General Public)",
-        "Issue Manager": "NMB CAPITAL LIMITED",
-        "Issued Unit": "3474900",
-        "Number Of Application": "2916047",
-        "Applied Unit": "33283280",
-        "Amount": "3328328000",
-        "Open-Date": "2026-04-16",
-        "Close-Date": "2026-04-21",
-        "Last Update": "2026-04-22 17:06:50"
-    },
-    {
-        "S.N": "3",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11319000",
@@ -33,10 +21,10 @@
         "Amount": "71273100",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-22 17:06:50"
+        "Last Update": "2026-04-22 18:39:00"
     },
     {
-        "S.N": "4",
+        "S.N": "3",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
@@ -45,6 +33,6 @@
         "Amount": "12645200",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-22 17:06:50"
+        "Last Update": "2026-04-22 18:39:00"
     }
 ]
