@@ -4,35 +4,59 @@
         "Company Name": "BUDDHABHUMI NEPAL HYDRO POWER COMPANY LTD. - BBNHCL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "NIC ASIA CAPITAL LIMITED",
         "Issued Unit": "4000000",
-        "Number Of Application": "37110",
-        "Applied Unit": "1557631",
-        "Amount": "155763100",
+        "Number Of Application": "37230",
+        "Applied Unit": "1565086",
+        "Amount": "156508600",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-05-11",
-        "Last Update": "2026-04-29 04:54:21"
+        "Last Update": "2026-04-29 07:25:05"
     },
     {
         "S.N": "2",
-        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
-        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
-        "Issued Unit": "11319000",
-        "Number Of Application": "105690",
-        "Applied Unit": "878673",
-        "Amount": "87867300",
-        "Open-Date": "2026-04-09",
-        "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-29 04:54:21"
+        "Company Name": "Everest Colour Limited - ECOL (RESERVED - FOREIGN EMPLOYMENT)",
+        "Issue Manager": "MUKTINATH CAPITAL LIMITED",
+        "Issued Unit": "79000",
+        "Number Of Application": "14454",
+        "Applied Unit": "187070",
+        "Amount": "18707000",
+        "Open-Date": "2026-04-29",
+        "Close-Date": "2026-05-05",
+        "Last Update": "2026-04-29 07:25:05"
     },
     {
         "S.N": "3",
+        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
+        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
+        "Issued Unit": "11319000",
+        "Number Of Application": "106379",
+        "Applied Unit": "889312",
+        "Amount": "88931200",
+        "Open-Date": "2026-04-09",
+        "Close-Date": "2026-05-14",
+        "Last Update": "2026-04-29 07:25:05"
+    },
+    {
+        "S.N": "4",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
-        "Number Of Application": "76",
-        "Applied Unit": "208181",
-        "Amount": "20818100",
+        "Number Of Application": "79",
+        "Applied Unit": "212884",
+        "Amount": "21288400",
         "Open-Date": "2026-04-09",
-        "Close-Date": "2026-04-29",
-        "Last Update": "2026-04-29 04:54:21"
+        "Close-Date": "2026-05-14",
+        "Last Update": "2026-04-29 07:25:05"
+    },
+    {
+        "S.N": "5",
+        "Company Name": "Yambaling Hydropower  Limited - YMHL (IPO - For General Public)",
+        "Issue Manager": "MUKTINATH CAPITAL LIMITED",
+        "Issued Unit": "2100000",
+        "Number Of Application": "347207",
+        "Applied Unit": "3918960",
+        "Amount": "391896000",
+        "Open-Date": "2026-04-29",
+        "Close-Date": "2026-05-05",
+        "Last Update": "2026-04-29 07:25:05"
     }
 ]
