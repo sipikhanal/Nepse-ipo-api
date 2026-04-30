@@ -4,63 +4,87 @@
         "Company Name": "BUDDHABHUMI NEPAL HYDRO POWER COMPANY LTD. - BBNHCL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "NIC ASIA CAPITAL LIMITED",
         "Issued Unit": "4000000",
-        "Number Of Application": "37508",
-        "Applied Unit": "1568356",
-        "Amount": "156835600",
+        "Number Of Application": "37661",
+        "Applied Unit": "1571907",
+        "Amount": "157190700",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-05-11",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     },
     {
         "S.N": "2",
         "Company Name": "Everest Colour Limited - ECOL (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "MUKTINATH CAPITAL LIMITED",
         "Issued Unit": "79000",
-        "Number Of Application": "57008",
-        "Applied Unit": "779190",
-        "Amount": "77919000",
+        "Number Of Application": "67016",
+        "Applied Unit": "894510",
+        "Amount": "89451000",
         "Open-Date": "2026-04-29",
         "Close-Date": "2026-05-05",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     },
     {
         "S.N": "3",
         "Company Name": "Himalayan Power Partner Limited - HPPL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "GLOBAL IME CAPITAL LIMITED",
         "Issued Unit": "5327085",
-        "Number Of Application": "628",
-        "Applied Unit": "29753",
-        "Amount": "2975300",
+        "Number Of Application": "8639",
+        "Applied Unit": "421911",
+        "Amount": "42191100",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-20",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     },
     {
         "S.N": "4",
         "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "NIMB ACE CAPITAL LIMITED",
         "Issued Unit": "172000",
-        "Number Of Application": "3412",
-        "Applied Unit": "44960",
-        "Amount": "4496000",
+        "Number Of Application": "42574",
+        "Applied Unit": "577740",
+        "Amount": "57774000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-06",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     },
     {
         "S.N": "5",
-        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
-        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
-        "Issued Unit": "11319000",
-        "Number Of Application": "107186",
-        "Applied Unit": "892541",
-        "Amount": "89254100",
-        "Open-Date": "2026-04-09",
+        "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Affected Area)",
+        "Issue Manager": "NIMB ACE CAPITAL LIMITED",
+        "Issued Unit": "516000",
+        "Number Of Application": "190",
+        "Applied Unit": "28740",
+        "Amount": "2874000",
+        "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     },
     {
         "S.N": "6",
+        "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Severely Affected Area)",
+        "Issue Manager": "NIMB ACE CAPITAL LIMITED",
+        "Issued Unit": "344000",
+        "Number Of Application": "60",
+        "Applied Unit": "21560",
+        "Amount": "2156000",
+        "Open-Date": "2026-04-30",
+        "Close-Date": "2026-05-14",
+        "Last Update": "2026-04-30 13:06:10"
+    },
+    {
+        "S.N": "7",
+        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
+        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
+        "Issued Unit": "11319000",
+        "Number Of Application": "107623",
+        "Applied Unit": "891385",
+        "Amount": "89138500",
+        "Open-Date": "2026-04-09",
+        "Close-Date": "2026-05-14",
+        "Last Update": "2026-04-30 13:06:10"
+    },
+    {
+        "S.N": "8",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
@@ -69,18 +93,18 @@
         "Amount": "22166300",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     },
     {
-        "S.N": "7",
+        "S.N": "9",
         "Company Name": "Yambaling Hydropower  Limited - YMHL (IPO - For General Public)",
         "Issue Manager": "MUKTINATH CAPITAL LIMITED",
         "Issued Unit": "2100000",
-        "Number Of Application": "1268898",
-        "Applied Unit": "14270800",
-        "Amount": "1427080000",
+        "Number Of Application": "1686291",
+        "Applied Unit": "18821210",
+        "Amount": "1882121000",
         "Open-Date": "2026-04-29",
         "Close-Date": "2026-05-05",
-        "Last Update": "2026-04-30 11:13:47"
+        "Last Update": "2026-04-30 13:06:10"
     }
 ]
