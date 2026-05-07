@@ -9,7 +9,7 @@
         "Amount": "164716000",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
         "S.N": "2",
@@ -21,22 +21,10 @@
         "Amount": "137774400",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-20",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
         "S.N": "3",
-        "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - FOREIGN EMPLOYMENT)",
-        "Issue Manager": "NIMB ACE CAPITAL LIMITED",
-        "Issued Unit": "172000",
-        "Number Of Application": "91971",
-        "Applied Unit": "1231760",
-        "Amount": "123176000",
-        "Open-Date": "2026-04-30",
-        "Close-Date": "2026-05-06",
-        "Last Update": "2026-05-07 17:17:20"
-    },
-    {
-        "S.N": "4",
         "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Affected Area)",
         "Issue Manager": "NIMB ACE CAPITAL LIMITED",
         "Issued Unit": "516000",
@@ -45,10 +33,10 @@
         "Amount": "29114000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "5",
+        "S.N": "4",
         "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Severely Affected Area)",
         "Issue Manager": "NIMB ACE CAPITAL LIMITED",
         "Issued Unit": "344000",
@@ -57,10 +45,10 @@
         "Amount": "24979000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "6",
+        "S.N": "5",
         "Company Name": "Sanima Equity Fund - II - SANIMAEF2 (IPO - For General Public)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "85000000",
@@ -69,10 +57,10 @@
         "Amount": "63297800",
         "Open-Date": "2026-05-07",
         "Close-Date": "2026-05-12",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "7",
+        "S.N": "6",
         "Company Name": "Sarvottam Paints Industries Ltd. - SARVPIL (RESERVED - FOREIGN EMPLOYMENT)",
         "Issue Manager": "GLOBAL IME CAPITAL LIMITED",
         "Issued Unit": "85000",
@@ -81,10 +69,10 @@
         "Amount": "112266000",
         "Open-Date": "2026-05-04",
         "Close-Date": "2026-05-07",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "8",
+        "S.N": "7",
         "Company Name": "Siddhartha Equity Fund 2 - SIDEQFMF2 (IPO - For General Public)",
         "Issue Manager": "SIDDHARTHA CAPITAL LIMITED",
         "Issued Unit": "85000000",
@@ -93,10 +81,10 @@
         "Amount": "1096746200",
         "Open-Date": "2026-05-04",
         "Close-Date": "2026-05-18",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "9",
+        "S.N": "8",
         "Company Name": "Taksar Pikhuwa Khola  Hydropower Limited - TPKHL (IPO - For General Public)",
         "Issue Manager": "PRABHU CAPITAL LIMITED",
         "Issued Unit": "2515455",
@@ -105,10 +93,10 @@
         "Amount": "1799743000",
         "Open-Date": "2026-05-06",
         "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "10",
+        "S.N": "9",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11319000",
@@ -117,10 +105,10 @@
         "Amount": "92112500",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     },
     {
-        "S.N": "11",
+        "S.N": "10",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
@@ -129,6 +117,6 @@
         "Amount": "22209300",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-07 17:17:20"
+        "Last Update": "2026-05-07 19:14:57"
     }
 ]
