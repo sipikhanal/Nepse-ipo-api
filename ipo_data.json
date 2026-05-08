@@ -9,7 +9,7 @@
         "Amount": "170116300",
         "Open-Date": "2026-04-05",
         "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
         "S.N": "2",
@@ -21,7 +21,7 @@
         "Amount": "147756500",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-20",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
         "S.N": "3",
@@ -33,7 +33,7 @@
         "Amount": "37608000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
         "S.N": "4",
@@ -45,7 +45,7 @@
         "Amount": "30989000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
         "S.N": "5",
@@ -57,22 +57,10 @@
         "Amount": "292515500",
         "Open-Date": "2026-05-07",
         "Close-Date": "2026-05-12",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
         "S.N": "6",
-        "Company Name": "Sarvottam Paints Industries Ltd. - SARVPIL (RESERVED - FOREIGN EMPLOYMENT)",
-        "Issue Manager": "GLOBAL IME CAPITAL LIMITED",
-        "Issued Unit": "85000",
-        "Number Of Application": "85342",
-        "Applied Unit": "1104490",
-        "Amount": "110449000",
-        "Open-Date": "2026-05-04",
-        "Close-Date": "2026-05-07",
-        "Last Update": "2026-05-08 17:22:52"
-    },
-    {
-        "S.N": "7",
         "Company Name": "Siddhartha Equity Fund 2 - SIDEQFMF2 (IPO - For General Public)",
         "Issue Manager": "SIDDHARTHA CAPITAL LIMITED",
         "Issued Unit": "85000000",
@@ -81,10 +69,10 @@
         "Amount": "1115197000",
         "Open-Date": "2026-05-04",
         "Close-Date": "2026-05-18",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
-        "S.N": "8",
+        "S.N": "7",
         "Company Name": "Taksar Pikhuwa Khola  Hydropower Limited - TPKHL (IPO - For General Public)",
         "Issue Manager": "PRABHU CAPITAL LIMITED",
         "Issued Unit": "2515455",
@@ -93,10 +81,10 @@
         "Amount": "2273871000",
         "Open-Date": "2026-05-06",
         "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
-        "S.N": "9",
+        "S.N": "8",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11319000",
@@ -105,10 +93,10 @@
         "Amount": "92210600",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     },
     {
-        "S.N": "10",
+        "S.N": "9",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
@@ -117,6 +105,6 @@
         "Amount": "22209300",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-08 17:22:52"
+        "Last Update": "2026-05-08 18:52:14"
     }
 ]
