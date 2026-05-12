@@ -1,18 +1,6 @@
 [
     {
         "S.N": "1",
-        "Company Name": "BUDDHABHUMI NEPAL HYDRO POWER COMPANY LTD. - BBNHCL (RESERVED - RIGHT SHARE)",
-        "Issue Manager": "NIC ASIA CAPITAL LIMITED",
-        "Issued Unit": "4000000",
-        "Number Of Application": "39532",
-        "Applied Unit": "1837916",
-        "Amount": "183791600",
-        "Open-Date": "2026-04-05",
-        "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-12 17:33:04"
-    },
-    {
-        "S.N": "2",
         "Company Name": "Himalayan Power Partner Limited - HPPL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "GLOBAL IME CAPITAL LIMITED",
         "Issued Unit": "5327085",
@@ -21,10 +9,10 @@
         "Amount": "182813300",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-20",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "3",
+        "S.N": "2",
         "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Affected Area)",
         "Issue Manager": "NIMB ACE CAPITAL LIMITED",
         "Issued Unit": "516000",
@@ -33,10 +21,10 @@
         "Amount": "58138000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "4",
+        "S.N": "3",
         "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Severely Affected Area)",
         "Issue Manager": "NIMB ACE CAPITAL LIMITED",
         "Issued Unit": "344000",
@@ -45,10 +33,10 @@
         "Amount": "51770000",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "5",
+        "S.N": "4",
         "Company Name": "Reliable Samriddhi Yojana-2 - RSY2 (IPO - General Public)",
         "Issue Manager": "RELIABLE INVESTMENT AND MERCHANT CAPITAL lIMITED",
         "Issued Unit": "85000000",
@@ -57,10 +45,10 @@
         "Amount": "272685200",
         "Open-Date": "2026-05-12",
         "Close-Date": "2026-05-15",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "6",
+        "S.N": "5",
         "Company Name": "Sanima Equity Fund - II - SANIMAEF2 (IPO - For General Public)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "85000000",
@@ -69,22 +57,10 @@
         "Amount": "771666500",
         "Open-Date": "2026-05-07",
         "Close-Date": "2026-05-21",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "7",
-        "Company Name": "Siddhartha Equity Fund 2 - SIDEQFMF2 (IPO - For General Public)",
-        "Issue Manager": "SIDDHARTHA CAPITAL LIMITED",
-        "Issued Unit": "85000000",
-        "Number Of Application": "96904",
-        "Applied Unit": "120301630",
-        "Amount": "1203016300",
-        "Open-Date": "2026-05-04",
-        "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-12 17:33:04"
-    },
-    {
-        "S.N": "8",
+        "S.N": "6",
         "Company Name": "Snow Rivers Limited. - SNOW (IPO - For General Public)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "778125",
@@ -93,22 +69,10 @@
         "Amount": "886691000",
         "Open-Date": "2026-05-12",
         "Close-Date": "2026-05-15",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "9",
-        "Company Name": "Taksar Pikhuwa Khola  Hydropower Limited - TPKHL (IPO - For General Public)",
-        "Issue Manager": "PRABHU CAPITAL LIMITED",
-        "Issued Unit": "2515455",
-        "Number Of Application": "2814315",
-        "Applied Unit": "30724910",
-        "Amount": "3072491000",
-        "Open-Date": "2026-05-06",
-        "Close-Date": "2026-05-11",
-        "Last Update": "2026-05-12 17:33:04"
-    },
-    {
-        "S.N": "10",
+        "S.N": "7",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11319000",
@@ -117,10 +81,10 @@
         "Amount": "95391300",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     },
     {
-        "S.N": "11",
+        "S.N": "8",
         "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "11781000",
@@ -129,6 +93,6 @@
         "Amount": "23508800",
         "Open-Date": "2026-04-09",
         "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-12 17:33:04"
+        "Last Update": "2026-05-12 19:57:57"
     }
 ]
