@@ -9,7 +9,7 @@
         "Amount": "215251800",
         "Open-Date": "2026-04-30",
         "Close-Date": "2026-05-20",
-        "Last Update": "2026-05-15 17:42:49"
+        "Last Update": "2026-05-15 19:43:34"
     },
     {
         "S.N": "2",
@@ -21,34 +21,10 @@
         "Amount": "233261600",
         "Open-Date": "2026-05-13",
         "Close-Date": "2026-05-18",
-        "Last Update": "2026-05-15 17:42:49"
+        "Last Update": "2026-05-15 19:43:34"
     },
     {
         "S.N": "3",
-        "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Affected Area)",
-        "Issue Manager": "NIMB ACE CAPITAL LIMITED",
-        "Issued Unit": "516000",
-        "Number Of Application": "8040",
-        "Applied Unit": "810070",
-        "Amount": "81007000",
-        "Open-Date": "2026-04-30",
-        "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-15 17:42:49"
-    },
-    {
-        "S.N": "4",
-        "Company Name": "Mount Everest Power Development Limited - MEPDL (RESERVED - Project Severely Affected Area)",
-        "Issue Manager": "NIMB ACE CAPITAL LIMITED",
-        "Issued Unit": "344000",
-        "Number Of Application": "2466",
-        "Applied Unit": "753080",
-        "Amount": "75308000",
-        "Open-Date": "2026-04-30",
-        "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-15 17:42:49"
-    },
-    {
-        "S.N": "5",
         "Company Name": "Reliable Samriddhi Yojana-2 - RSY2 (IPO - General Public)",
         "Issue Manager": "RELIABLE INVESTMENT AND MERCHANT CAPITAL lIMITED",
         "Issued Unit": "85000000",
@@ -57,10 +33,10 @@
         "Amount": "428574700",
         "Open-Date": "2026-05-12",
         "Close-Date": "2026-05-15",
-        "Last Update": "2026-05-15 17:42:49"
+        "Last Update": "2026-05-15 19:43:34"
     },
     {
-        "S.N": "6",
+        "S.N": "4",
         "Company Name": "Sanima Equity Fund - II - SANIMAEF2 (IPO - For General Public)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "85000000",
@@ -69,10 +45,10 @@
         "Amount": "1041854700",
         "Open-Date": "2026-05-07",
         "Close-Date": "2026-05-21",
-        "Last Update": "2026-05-15 17:42:49"
+        "Last Update": "2026-05-15 19:43:34"
     },
     {
-        "S.N": "7",
+        "S.N": "5",
         "Company Name": "Snow Rivers Limited. - SNOW (IPO - For General Public)",
         "Issue Manager": "SANIMA CAPITAL LIMITED",
         "Issued Unit": "778125",
@@ -81,30 +57,6 @@
         "Amount": "2464302000",
         "Open-Date": "2026-05-12",
         "Close-Date": "2026-05-15",
-        "Last Update": "2026-05-15 17:42:49"
-    },
-    {
-        "S.N": "8",
-        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAIL (RESERVED - RIGHT SHARE)",
-        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
-        "Issued Unit": "11319000",
-        "Number Of Application": "112898",
-        "Applied Unit": "1024512",
-        "Amount": "102451200",
-        "Open-Date": "2026-04-09",
-        "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-15 17:42:49"
-    },
-    {
-        "S.N": "9",
-        "Company Name": "UNITED AJOD INSURANCE LIMITED - UAILPO (RESERVED - RIGHT SHARE)",
-        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
-        "Issued Unit": "11781000",
-        "Number Of Application": "88",
-        "Applied Unit": "240193",
-        "Amount": "24019300",
-        "Open-Date": "2026-04-09",
-        "Close-Date": "2026-05-14",
-        "Last Update": "2026-05-15 17:42:49"
+        "Last Update": "2026-05-15 19:43:34"
     }
 ]
