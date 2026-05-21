@@ -1,30 +1,6 @@
 [
     {
         "S.N": "1",
-        "Company Name": "Himalayan Power Partner Limited - HPPL (RESERVED - RIGHT SHARE)",
-        "Issue Manager": "GLOBAL IME CAPITAL LIMITED",
-        "Issued Unit": "5327085",
-        "Number Of Application": "46269",
-        "Applied Unit": "3277927",
-        "Amount": "327792700",
-        "Open-Date": "2026-04-30",
-        "Close-Date": "2026-05-20",
-        "Last Update": "2026-05-21 18:05:55"
-    },
-    {
-        "S.N": "2",
-        "Company Name": "LS Horizon 12 - LSHMF12 (IPO - For General Public)",
-        "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
-        "Issued Unit": "102000000",
-        "Number Of Application": "38496",
-        "Applied Unit": "131706060",
-        "Amount": "1317060600",
-        "Open-Date": "2026-05-13",
-        "Close-Date": "2026-05-20",
-        "Last Update": "2026-05-21 18:05:55"
-    },
-    {
-        "S.N": "3",
         "Company Name": "Reliable Samriddhi Yojana-2 - RSY2 (IPO - General Public)",
         "Issue Manager": "RELIABLE INVESTMENT AND MERCHANT CAPITAL lIMITED",
         "Issued Unit": "85000000",
@@ -33,6 +9,6 @@
         "Amount": "1056529300",
         "Open-Date": "2026-05-12",
         "Close-Date": "2026-05-22",
-        "Last Update": "2026-05-21 18:05:55"
+        "Last Update": "2026-05-21 20:20:11"
     }
 ]
