@@ -1,14 +1,26 @@
 [
     {
         "S.N": "1",
+        "Company Name": "Everest Colour Limited - ECOL (IPO - For General Public)",
+        "Issue Manager": "MUKTINATH CAPITAL LIMITED",
+        "Issued Unit": "655700",
+        "Number Of Application": "74684",
+        "Applied Unit": "811250",
+        "Amount": "81125000",
+        "Open-Date": "2026-06-05",
+        "Close-Date": "2026-06-10",
+        "Last Update": "2026-06-05 06:26:52"
+    },
+    {
+        "S.N": "2",
         "Company Name": "Sanigad Hydro Limited - SGHL (IPO - For General Public)",
         "Issue Manager": "LAXMI SUNRISE CAPITAL LIMITED",
         "Issued Unit": "4674000",
-        "Number Of Application": "2495437",
-        "Applied Unit": "27528100",
-        "Amount": "2752810000",
+        "Number Of Application": "2766700",
+        "Applied Unit": "30257460",
+        "Amount": "3025746000",
         "Open-Date": "2026-06-01",
         "Close-Date": "2026-06-04",
-        "Last Update": "2026-06-05 01:37:22"
+        "Last Update": "2026-06-05 06:26:52"
     }
 ]
