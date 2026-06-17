@@ -1,14 +1,26 @@
 [
     {
         "S.N": "1",
+        "Company Name": "Mount Everest Power Development Limited - MEPDL (IPO - For General Public)",
+        "Issue Manager": "NIMB ACE CAPITAL LIMITED",
+        "Issued Unit": "1427600",
+        "Number Of Application": "366310",
+        "Applied Unit": "4083800",
+        "Amount": "408380000",
+        "Open-Date": "2026-06-17",
+        "Close-Date": "2026-06-22",
+        "Last Update": "2026-06-17 07:34:09"
+    },
+    {
+        "S.N": "2",
         "Company Name": "Sarvottam Paints Industries Ltd. - SARVPIL (IPO - For General Public)",
         "Issue Manager": "GLOBAL IME CAPITAL LIMITED",
         "Issued Unit": "705500",
-        "Number Of Application": "2463429",
-        "Applied Unit": "26743640",
-        "Amount": "2674364000",
+        "Number Of Application": "2897125",
+        "Applied Unit": "31080210",
+        "Amount": "3108021000",
         "Open-Date": "2026-06-11",
         "Close-Date": "2026-06-16",
-        "Last Update": "2026-06-17 02:02:24"
+        "Last Update": "2026-06-17 07:34:09"
     }
 ]
